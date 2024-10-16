@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Ceramic_Management", "Project-Ceramic_Management\Project-Ceramic_Management.csproj", "{FB814ED6-3E5C-4C69-80A0-00CDF7A0F8A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB814ED6-3E5C-4C69-80A0-00CDF7A0F8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB814ED6-3E5C-4C69-80A0-00CDF7A0F8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB814ED6-3E5C-4C69-80A0-00CDF7A0F8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB814ED6-3E5C-4C69-80A0-00CDF7A0F8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {795DD15C-4033-4288-AABC-0808F5B91077}
+	EndGlobalSection
+EndGlobal
